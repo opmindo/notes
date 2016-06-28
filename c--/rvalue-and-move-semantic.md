@@ -1,0 +1,1 @@
+[Rvalue reference explained](http://thbecker.net/articles/rvalue_references/section_05.html)Things that are declared as rvalue reference can be lvalues or rvalues. The distinguishing criterion is: *if it has a name*, then it is an lvalue. Otherwise, it is an rvalue.
